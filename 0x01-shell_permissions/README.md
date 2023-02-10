@@ -6,3 +6,6 @@ Empty
 Execute
 Multiple permissions
 Everybody
+James Bond
+John Doe
+Mirrow permission
