@@ -7,3 +7,6 @@
 6. line
 7. It is a good file that cuts iron without making a noise
 8. 8-cwd_state
+9. duplicate last line
+10. no more js
+Directories and sub directories
